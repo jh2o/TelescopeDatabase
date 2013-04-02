@@ -1,0 +1,31 @@
+<resources>
+
+   <string name="app_name">Telescope Database</string>
+   <string name="menu_settings">Settings</string>
+   <string name="title">Telescope Database</string>
+   <string name="button_add_contact">Add Telescope</string>
+   <string name="save_btn">Save Telescope</string>
+   
+   <string name="add_menu">Add Telescope</string>
+   <string name="edit_menu">Edit Telescope</string>
+   <string name="delete_menu">Delete Telescope</string>
+   
+   <string name="name_hint">Telescope</string>
+   <string name="cap_hint">Aperture</string>
+   <string name="code_hint">Ground</string>
+   
+   <string name="name_lbl">Telescope</string>
+   <string name="cap_lbl">Aperture</string>
+   <string name="code_lbl">Ground</string>
+   
+   <string name="confirmTitle">Are You Sure?</string>
+   <string name="confirmMessage">This will permanently delete the entry</string>
+   
+   <string name="errorButton">OK</string>
+   <string name="errorTitle">Telescope Name is Required</string>
+   <string name="errorMessage">You Need to Enter Telescope Name</string>
+   
+   <string name="cancel_btn">Cancel</string>
+   <string name="delete_btn">Delete</string>
+
+</resources>
